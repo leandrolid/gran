@@ -33,8 +33,7 @@ Ele foi feito em ReactJS utilizando TypeScript, os dados são consumidos de uma 
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61424755/127166550-072ee170-dcd3-4443-9dbe-181463cb121d.gif" alt="Página inicial" width="35%" />
-  <img src="https://user-images.githubusercontent.com/61424755/127167667-96423fb1-340d-4030-b656-005ca8c56902.gif" alt="Player" width="35%" />
+  <img src="https://user-images.githubusercontent.com/61424755/128582910-0c62ef35-1645-4185-8816-d85e5117c531.gif" alt="Página inicial" width="85%" />
 </p>
 
 ## Tecnologias
