@@ -1,0 +1,22 @@
+.container {
+  width: 100vw;
+  max-width: 1080px;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+  padding: 2rem;
+  margin: 0 auto;
+}
+
+.container > div {
+  cursor: pointer;
+}
+
+.container > div:hover {
+  filter: brightness(0.98);
+}
+
+.container h4 {
+  margin-bottom: 1rem;
+}

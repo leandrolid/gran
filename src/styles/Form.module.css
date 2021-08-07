@@ -1,0 +1,22 @@
+.container {
+  width: 90vw;
+  max-width: 450px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  margin: 7rem auto;
+  padding: 2rem;
+  background-color: white;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+}
+
+.container > div {
+  margin: 0.5rem 0;
+}
+
+.container > button {
+  margin: 0.5rem 0;
+}
